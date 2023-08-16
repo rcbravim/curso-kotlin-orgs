@@ -1,4 +1,6 @@
 package br.com.alura.orgs
 
-class MainActivity {
+import android.app.Activity
+
+class MainActivity : Activity() {
 }
